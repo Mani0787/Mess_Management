@@ -30,8 +30,3 @@ A web-based application designed to simplify and automate the daily activities o
 | Backend | PHP |
 | Database | MySQL |
 | Version Control | Git & GitHub |
-
----
-
-## 📁 Project Structure
-
